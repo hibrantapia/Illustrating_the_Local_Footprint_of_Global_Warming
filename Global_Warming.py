@@ -1,3 +1,7 @@
+!pip install netCDF4
+
+# -------------------------------------------
+
 import netCDF4 as nc
 import numpy as np
 import matplotlib.pyplot as plt
@@ -5,6 +9,8 @@ import matplotlib.colors as list_colors
 from matplotlib.patches import Rectangle
 from matplotlib.collections import PatchCollection
 import matplotlib.cm as cm
+
+# -------------------------------------------
 
 def wheather_stripes(meanData,cmap,title ):
     plt.figure()
@@ -17,6 +23,9 @@ def wheather_stripes(meanData,cmap,title ):
     #colorbar
     plt.colorbar()
     plt.show()
+    
+# -------------------------------------------
+
 def fig_2(meanData,title):
     mean=np.mean(meanData)
     meanData-=mean
@@ -42,6 +51,9 @@ cmap = list_colors.ListedColormap([
     '#fee0d2', '#fcbba1', '#fc9272', '#fb6a4a',
     '#ef3b2c', '#cb181d', '#a50f15', '#67000d',
     ])
+
+# -------------------------------------------
+
 dataNoArtics=data[:, 20:160, :]
 #get the mean for each year in data no artics
 meanDataNoArtics=np.mean(dataNoArtics, axis=(1,2))
