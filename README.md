@@ -2,6 +2,8 @@
 
 #### College Project - Make sure to read the PDF article in "Extra_Stuff".
 
+## Based on www.showyourstripes.info
+
 <p align="center"> <img src = "/Extra_Stuff/1.png" width = 700> </p>
 
 <p align="center"> <img src = "/Extra_Stuff/2.png" width = 700> </p>
