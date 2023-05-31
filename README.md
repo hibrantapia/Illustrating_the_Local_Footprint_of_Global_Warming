@@ -3,28 +3,28 @@
 #### College Project - Make sure to read the PDF article in "Extra_Stuff".
 
 <h3 align="center">Original</h3>
-<p align="center"> <img src = "/Extra_Stuff/1.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/1.png" width = 700> </p>
 
 <h3 align="center">Grayscale</h3>
-<p align="center"> <img src = "/Extra_Stuff/2.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/2.png" width = 700> </p>
 
 <h3 align="center">Losing Data</h3>
-<p align="center"> <img src = "/Extra_Stuff/3.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/3.png" width = 700> </p>
 
 <h3 align="center">Covering the lost data with 0s</h3>
-<p align="center"> <img src = "/Extra_Stuff/4.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/4.png" width = 700> </p>
 
 <h3 align="center">Covering the lost data with the mean</h3>
-<p align="center"> <img src = "/Extra_Stuff/5.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/5.png" width = 700> </p>
 
 <h3 align="center">Covering the lost data with the median</h3>
-<p align="center"> <img src = "/Extra_Stuff/6.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/6.png" width = 700> </p>
 
 <h3 align="center">Interpolations</h3>
-<p align="center"> <img src = "/Extra_Stuff/7.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/7.png" width = 700> </p>
 
 <h3 align="center">Histograms</h3>
-<p align="center"> <img src = "/Extra_Stuff/8.png" width = 750> </p>
+<p align="center"> <img src = "/Extra_Stuff/8.png" width = 700> </p>
 
 <h2 align="left">Recipe</h2>
 
