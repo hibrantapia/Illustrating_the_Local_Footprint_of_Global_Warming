@@ -24,11 +24,15 @@
 
 1. In this simple GitHub Repository, I uploaded a single file that is necessary to run the code sucessfully. 
 2. Make sure to download the "Global_Warming.py" that is on this repository.
-3. To download the database click on this [link](https://psl.noaa.gov/repository/entry/show?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL25jZXAucmVhbmFseXNpcy5kZXJpdmVkL3N1cmZhY2VfZ2F1c3MvYWlyLjJtLm1vbi5tZWFuLm5j)
+3. To download the database click on this [link](https://psl.noaa.gov/repository/entry/show?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL25jZXAucmVhbmFseXNpcy5kZXJpdmVkL3N1cmZhY2VfZ2F1c3MvYWlyLjJtLm1vbi5tZWFuLm5j) and search for the database of your choice, make sure to rename it "air.2m.mon.mean.nc" so the code can read the database. 
 4. I'll recommend you for simplicity, open the .py file and run it on Google Colab, that way you’ll only need to upload the database, and run everything.
-5. Download or use two .png images of your selection, I used the “BIRD.png” and “CHURCH.png” images.
-6. Upload them to Google Colab, copy and paste everything (by chunks as explained on the .py file) and click on “Run all”.
+5. Upload the two files to Google Colab, copy and paste everything (by chunks as explained on the .py file) and click on “Run all”.
 7. That’s it!
+
+<h2 align="left">Extra Stuff</h3>
+
+- I downloaded the graphics and save them so you can see them at a glance.
+- This is a College Project, make sure to check out the PDF file and check out the autors.
 
 #### Check out my social stuff for more:
 
